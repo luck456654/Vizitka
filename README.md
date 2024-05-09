@@ -6,3 +6,5 @@
 git clone https://github.com/luck456654/Vizitka.git </li>
 <li>зайдите в получившуюся папку и запустите файл index.html</li>
 </ol>
+
+Демо - https://luck456654.github.io/Vizitka/
